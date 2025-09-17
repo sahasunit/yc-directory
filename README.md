@@ -1,5 +1,11 @@
 # YC Directory
 
+<img width="757" height="443" alt="Screenshot 2025-09-17 at 12 28 11 pm" src="https://github.com/user-attachments/assets/50e92cde-24bc-44fb-b719-1d977975d488" />
+
+<img width="894" height="1205" alt="Screenshot 2025-09-17 at 12 27 56 pm" src="https://github.com/user-attachments/assets/ad7bdcfb-9401-4a75-b2a1-b6ac3b7ac224" />
+
+<br />
+
 A modern startup directory platform built with Next.js and Sanity CMS, designed to help entrepreneurs pitch their startups, connect with other entrepreneurs, and get noticed in virtual competitions.
 
 ## 🚀 Features
